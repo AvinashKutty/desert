@@ -1,7 +1,11 @@
 import React from "react";
 
 const addi = () => {
-  return <div>addi</div>;
+  return (
+    <div>
+      <h1>adddaknkd</h1>
+    </div>
+  );
 };
 
 export default addi;
